@@ -20,7 +20,7 @@ Créer patient et Cnx : priorité : OK pour les 2
 Extent report :  priorité : OK
  Prochaine Priorité : classe java : fih les cas de test de cnx : cas de test valide , invalide , t7ot login format invalide , les champs vides.
 cas de test valide : notification msg eli fih et clrs vert : pour le valide OK /
-# invalide : msg d'erreur et clrs rouge
+# invalide : msg d'erreur et clrs rouge : en cours
 format invalide et chmp vide : kifkif à reporter
 Nb : selenium mayrach page kemla; dnc lazem tahet b scroll ki test7a9 : OK
  
@@ -28,4 +28,4 @@ profile ekher l execution : ex : chaque profil / CT et chaque CT / classe : OK
 
 BeforeMethode , fama before okhra Before Suite (mahech priorité , juste lik enti information ouvre les tests dans le même navigateur) : OK
 
-# mba3éd Jenkins : lancer un build
+Lancer un build Jenkins

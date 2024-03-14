@@ -1,0 +1,5 @@
+PageObjectModel\HomePage.class
+PageObjectModel\NewPatientPage.class
+Reports\ExtentManager.class
+PageObjectModel\LogPage.class
+PageObjectModel\QuestionnairePage.class

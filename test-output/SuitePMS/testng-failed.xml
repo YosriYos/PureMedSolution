@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuitePMS]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestingPMS(failed)">
+    <classes>
+      <class name="DossierTest.TestingPMS">
+        <methods>
+          <include name="CreatePatient"/>
+          <include name="Fermeture"/>
+          <include name="Before"/>
+        </methods>
+      </class> <!-- DossierTest.TestingPMS -->
+    </classes>
+  </test> <!-- TestingPMS(failed) -->
+</suite> <!-- Failed suite [SuitePMS] -->

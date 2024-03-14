@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteTest">
+  <test thread-count="5" name="PureMedTest">
+    <classes>
+      <class name="DossierTest.TestConnecting"/>
+      <class name="DossierTest.TestCreatingPatient"/>
+      <class name="DossierTest.Base"/>
+    </classes>
+  </test> <!-- PureMedTest -->
+</suite> <!-- SuiteTest -->
